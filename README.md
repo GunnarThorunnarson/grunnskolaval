@@ -12,7 +12,7 @@ Vefforritun með HTML, CSS og JavaScript.
 ---
 
 ## Tími 1: 
-1. VSCode
+1. VSCode ritill
 1. HTML ívafsmálið
 1. Grafík (ljósmynd, icon, SVG)
 1. Github (geymsla og hýsing)
