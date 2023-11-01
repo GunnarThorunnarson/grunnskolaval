@@ -8,16 +8,11 @@ Vefforritun með HTML, CSS og JavaScript.
 ---
 
 ## Tími 1: 
-1. VSCode ritill
-1. HTML ívafsmálið
-1. Grafík (ljósmynd, icon, SVG)
+1. [VSCode ritill](https://code.visualstudio.com/)
+1. [HTML](https://www.w3schools.com/html/default.asp) ívafsmálið
+1. Grafík (ljósmynd, SVG)
 1. Github (geymsla og hýsing)
    
-### Bjargir
-- [html](https://www.w3schools.com/html/default.asp)
-- [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
-- [icons](https://fonts.google.com/icons?selected=Material+Icons:assignment) `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
-
 ---
 
 ## Tími 2:
@@ -37,22 +32,27 @@ Vefforritun með HTML, CSS og JavaScript.
 ---
 
 ## Tími 3:
-1. JavaScript
+JavaScript
 
 ---
 
 ## Tími 4:
-1. JavaScript
+JavaScript
    
 ---
 
 ## Tími 5:
-1. Vefapp
+Vefapp
+
+<!--
+- [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
+- [icons](https://fonts.google.com/icons?selected=Material+Icons:assignment) `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
+-->
 
 ---
 
 ## Tími 6:
-1. Vefapp
+Vefapp
 
 ---
 
