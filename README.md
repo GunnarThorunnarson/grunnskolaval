@@ -9,7 +9,7 @@ Vefforritun með HTML, CSS og JavaScript.
 
 ## Tími 1: 
 1. [VSCode ritill](https://code.visualstudio.com/)
-1. [HTML](https://www.w3schools.com/html/default.asp) ívafsmálið
+1. [HTML](https://www.w3schools.com/html/html_basic.asp) ívafsmálið
 1. Grafík (ljósmynd, SVG)
 1. Github (geymsla og hýsing)
    1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
