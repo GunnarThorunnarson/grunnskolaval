@@ -66,5 +66,8 @@ Vefforritun
 
 > Ítarefni: [Bókin um vefforritun](https://github.com/vefforritun/book/tree/main/chapters)
 
-<!-- [Vefgrunnur](https://vefgrunnur.github.io/)  -->
+<!-- 
+- [Vefgrunnur](https://vefgrunnur.github.io/)  
+- https://github.com/vefforritun/vef1-2023
+-->
 
