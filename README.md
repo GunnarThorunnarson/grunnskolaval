@@ -11,6 +11,7 @@ Vefforritun með HTML, CSS og JavaScript.
 1. Github (geymsla og hýsing)
    1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
    1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
+   1. Hýsa vefsíðu á Github 
 1. [VSCode ritill](https://code.visualstudio.com/)
 1. [HTML](https://www.w3schools.com/html/html_basic.asp) ívafsmálið
 1. Grafík (ljósmynd, SVG)
