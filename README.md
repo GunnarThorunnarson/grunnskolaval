@@ -2,12 +2,8 @@
 
 Vefforritun með HTML, CSS og JavaScript.
 
-- 12 klst. (6 x 2 klst), 6 skipti.
+- 12 klst. (6 x 2 klst)
 - fimmtudaga kl 15:20 - 17:20 
-
-> [Bókin um vefforritun](https://github.com/vefforritun/book/tree/main/chapters)
-
-<!-- [HTML & CSS](https://vefgrunnur.github.io/) -->
 
 ---
 
@@ -58,3 +54,8 @@ Vefforritun með HTML, CSS og JavaScript.
 ## Tími 6:
 1. Vefapp
 
+---
+
+> [Bókin um vefforritun](https://github.com/vefforritun/book/tree/main/chapters) _ítarefni_
+
+<!-- [HTML & CSS](https://vefgrunnur.github.io/) -->
