@@ -25,17 +25,18 @@ Vefforritun með HTML, CSS og JavaScript.
 ---
 
 ## Tími 2:
-1. CSS grunnatriðin
-1. CSS Box modelið og float
+1. CSS grunnatriði
+1. Box modelið 
+1. float
 1. HTML div
-1. CSS Grid uppsetning (eða flexbox)
+1. flexbox 
 
 ### Bjargir
 - [CSS](https://www.w3schools.com/w3css/default.asp)
-- [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+- [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 - [float](https://www.w3schools.com/css/css_float.asp)
 - [HTML div](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- [Pure CSS](https://purecss.io/)
+- flexbox
   
 ---
 
