@@ -36,19 +36,18 @@ Bjargir
 ---
 
 ## Tími 3:
-JavaScript
-1. gildi, týpur, virkjar
-1. föll, fylki, hlutir
+JavaScript: gildi, týpur, virkjar.
+
 
 ---
 
 ## Tími 4:
-forritun á vef   
+JavaScript: föll og fylki.
 
 ---
 
 ## Tími 5:
-Vefapp
+Vefforritun  
 
 <!--
 - [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
@@ -58,7 +57,7 @@ Vefapp
 ---
 
 ## Tími 6:
-Vefapp
+Vefforritun
 <!--
 1. [hýsa vefsíðu á Github](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 -->
