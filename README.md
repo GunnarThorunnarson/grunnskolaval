@@ -56,6 +56,8 @@ Vefforritun með HTML, CSS og JavaScript.
 
 ---
 
-> [Bókin um vefforritun](https://github.com/vefforritun/book/tree/main/chapters) _ítarefni_
+Ítarefni:
+- [Vefgrunnur](https://vefgrunnur.github.io/) 
+- [Bókin um vefforritun](https://github.com/vefforritun/book/tree/main/chapters)
 
-<!-- [HTML & CSS](https://vefgrunnur.github.io/) -->
+
