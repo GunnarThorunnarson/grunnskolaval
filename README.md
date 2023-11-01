@@ -1,6 +1,6 @@
 # Grunnskólaval (For-R-2)
 
-Vefforritun með HTML, CSS og JavaScript.
+Markmið námskeiðs er að veita inngang að vefforritun með HTML, CSS og JavaScript án nokkurrar reynslu af forritun.
 
 - 12 klst. (6 x 2 klst)
 - fimmtudaga kl 15:20 - 17:20 
