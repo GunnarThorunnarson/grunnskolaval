@@ -56,8 +56,7 @@ Vefapp
 
 ---
 
-Ítarefni:
-- [Bókin um vefforritun](https://github.com/vefforritun/book/tree/main/chapters)
+> Ítarefni: [Bókin um vefforritun](https://github.com/vefforritun/book/tree/main/chapters)
 
 <!-- [Vefgrunnur](https://vefgrunnur.github.io/)  -->
 
