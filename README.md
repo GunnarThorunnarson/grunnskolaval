@@ -8,7 +8,7 @@ Markmið námskeiðs er að veita inngang að vefforritun með HTML, CSS og Java
 ---
 
 ## Tími 1: 
-1. Github (geymsla og hýsing)
+1. Github (geymsla og hýsing) eða  Netlify
    1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
    1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
    1. Hýsa vefsíðu á Github 
@@ -16,6 +16,10 @@ Markmið námskeiðs er að veita inngang að vefforritun með HTML, CSS og Java
 1. [HTML](https://www.w3schools.com/html/html_basic.asp) ívafsmálið
 1. Grafík (ljósmynd, SVG)
 
+ítarefni: 
+- [Bókin um vefforritun: kafli 3 (html)](https://github.com/vefforritun/book/blob/main/chapters/03.html.md)
+- [Bókin um vefforritun: kafli 4 (element)](https://github.com/vefforritun/book/blob/main/chapters/04.element.md)
+  
 ---
 
 ### Tími 2:
@@ -23,18 +27,24 @@ Markmið námskeiðs er að veita inngang að vefforritun með HTML, CSS og Java
 - [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 - [float](https://www.w3schools.com/css/css_float.asp)
 - [HTML div](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- flexbox
+- flexbox og skalanleiki
+
+Bjargir
+- [CSS málfræði](https://github.com/vefforritun/book/blob/main/chapters/10.css-malfraedi.md)
+- [css Box Model](https://github.com/vefforritun/book/blob/main/chapters/11.css-box-model.md)
   
 ---
 
 ## Tími 3:
 JavaScript
+1. gildi, týpur, virkjar
+1. föll, fylki, hlutir
 
 ---
 
 ## Tími 4:
-JavaScript
-   
+forritun á vef   
+
 ---
 
 ## Tími 5:
