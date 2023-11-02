@@ -29,11 +29,9 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 
 ---
 
-### Tími 2:
+### Tími 2: drög
 CSS
 
-<!--
-CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 - [CSS málfræði](https://github.com/vefforritun/book/blob/main/chapters/10.css-malfraedi.md)
    - [CSS grunnatriði](https://www.w3schools.com/w3css/default.asp)
@@ -49,6 +47,8 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 > [Flexbox](https://bok.vefforritun.is/17.css-flexbox.html)  _ítarefni_ og https://github.com/vefforritun/vef1-2023/tree/main/namsefni/14.css-flexbox
 > [Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) _ítarefni_
 
+<!--
+CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 -->
 
 ---
