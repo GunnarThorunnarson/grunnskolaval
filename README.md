@@ -15,6 +15,7 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 1. [VSCode ritill](https://code.visualstudio.com/)
 1. HTML
    - [HTML](https://www.w3schools.com/html/html_basic.asp) ívafsmálið
+   - [HTML cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
    - [Bókin um vefforritun: kafli 3](https://bok.vefforritun.is/03.html)
    - [Bókin um vefforritun: kafli 4](https://bok.vefforritun.is/04.element)
 1. Grafík (ljósmynd, SVG)
@@ -23,6 +24,7 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 
 ### Tími 2:
 - [CSS grunnatriði](https://www.w3schools.com/w3css/default.asp)
+- [CSS cheatsheets](https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet)
 - [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 - [float](https://www.w3schools.com/css/css_float.asp)
 - [HTML div](https://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -37,6 +39,13 @@ Bjargir
 ### Tími 3:
 Forritun með JavaScript
 
+<!--
+- [W3schools](https://www.w3schools.com/js/)
+   - [æfingar](https://www.w3schools.com/js/exercise_js.asp)
+- [Cheatsheeets / Learn JavaScript Basics (coedcademy)](https://www.codecademy.com/learn/paths/create-video-games-with-phaser/tracks/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-basics/cheatsheet)
+- [The JavaSript Survival Guide](https://www.youtube.com/watch?v=9emXNzqCKyg) myndband
+- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) myndband
+-->
 
 ---
 
@@ -61,7 +70,9 @@ Vefapp
 ---
 
 <!-- 
-> Ítarefni: [Bókin um vefforritun](https://bok.vefforritun.is/)
+Ítarefni: 
+- [Bókin um vefforritun](https://bok.vefforritun.is/)
+- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
 - [Vefgrunnur](https://vefgrunnur.github.io/)  
 - https://github.com/vefforritun/vef1-2023
 -->
