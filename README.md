@@ -14,7 +14,7 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
    1. [HTML stök](https://bok.vefforritun.is/04.element)
    1. [HTML gagnvirkar æfingar](https://www.w3schools.com/html/html_basic.asp)
    1. [HTML cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
-   1. [W3C Validation](https://validator.w3.org/#validate_by_input) _ath villur_
+   1. [HTML validator](https://validator.w3.org/#validate_by_input) _athugar með villur_
    
 #### Verkefni:
 [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
