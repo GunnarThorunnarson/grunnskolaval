@@ -67,6 +67,10 @@ Forritun með JavaScript
 ### Tími 4:
 Forritun  með JavaScript
 
+<!--
+https://www.codecademy.com/learn/introduction-to-javascript
+-->
+
 ---
 
 ### Tími 5:
