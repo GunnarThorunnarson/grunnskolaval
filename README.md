@@ -8,10 +8,6 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 ---
 
 ### Tími 1: 
-1. Github (geymsla og vefhýsing) 
-   1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
-   1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
-   1. [Að hýsa vefsíðu á Github](https://pages.github.com/) 
 1. [VSCode ritill](https://code.visualstudio.com/)
 1. HTML
    1. [HTML ívafsmálið](https://bok.vefforritun.is/03.html)
@@ -38,7 +34,7 @@ CSS
 **Verkefni**
 [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1)
 
-> [Flexbox](https://bok.vefforritun.is/17.css-flexbox.html)  _ítarefni_
+> [Flexbox](https://bok.vefforritun.is/17.css-flexbox.html)  _ítarefni_ og https://github.com/vefforritun/vef1-2023/tree/main/namsefni/14.css-flexbox
 > [Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) _ítarefni_
 
 -->
@@ -64,7 +60,13 @@ Forritun  með JavaScript
 ---
 
 ### Tími 5:
-Vefapp 
+Vefapp
+<!--
+1. Github (geymsla og vefhýsing) 
+   1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
+   1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
+   1. [Að hýsa vefsíðu á Github](https://pages.github.com/)
+-->
 
 <!--
 - [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
