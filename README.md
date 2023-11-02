@@ -23,7 +23,10 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 
 ### Tími 2:
 CSS
+
 <!--
+CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
+
 - [CSS málfræði](https://github.com/vefforritun/book/blob/main/chapters/10.css-malfraedi.md)
    - [CSS grunnatriði](https://www.w3schools.com/w3css/default.asp)
    - [CSS cheatsheets](https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet)
