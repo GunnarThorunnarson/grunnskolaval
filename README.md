@@ -12,7 +12,7 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 1. HTML
    1. [HTML ívafsmálið](https://bok.vefforritun.is/03.html) _lesefni_
    1. [HTML element](https://bok.vefforritun.is/04.element) _lesefni_
-   1. [HTML sýnidæmi](https://www.w3schools.com/html/html_basic.asp)
+   1. [HTML sýnidæmi](https://www.w3schools.com/html/html_basic.asp) _gagnvirkt_
    1. [HTML cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
    1. [HTML validator](https://validator.w3.org/#validate_by_input) _athugar með villur_
    
