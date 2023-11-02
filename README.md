@@ -42,7 +42,7 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 #### Verkefni:
 [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1)
 
-> [Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) og [hér](https://github.com/vefforritun/vef1-2023/tree/main/namsefni/14.css-flexbox) <br> _ítarefni_ 
+> [Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) og [hér](https://github.com/vefforritun/vef1-2023/tree/main/namsefni/14.css-flexbox)  _ítarefni_ <br>
 > [Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) _ítarefni_
 
 <!--
