@@ -35,13 +35,13 @@ Bjargir
 ---
 
 ### Tími 3:
-Forritun með JavaScript: gildi, týpur, virkjar.
+Forritun með JavaScript
 
 
 ---
 
 ### Tími 4:
-Forritun  með JavaScript: föll og fylki.
+Forritun  með JavaScript
 
 ---
 
