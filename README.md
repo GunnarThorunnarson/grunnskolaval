@@ -10,14 +10,22 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 ### Tími 1: 
 1. [VSCode ritill](https://code.visualstudio.com/)
 1. HTML
-   1. [HTML ívafsmálið](https://bok.vefforritun.is/03.html)
-   1. [HTML stök](https://bok.vefforritun.is/04.element)
-   1. [HTML gagnvirkar æfingar](https://www.w3schools.com/html/html_basic.asp)
+   1. [HTML ívafsmálið](https://bok.vefforritun.is/03.html) _lesefni_
+   1. [HTML element](https://bok.vefforritun.is/04.element) _lesefni_
+   1. [HTML sýnidæmi](https://www.w3schools.com/html/html_basic.asp)
    1. [HTML cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
    1. [HTML validator](https://validator.w3.org/#validate_by_input) _athugar með villur_
    
 #### Verkefni:
 [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
+
+
+
+<!--
+[Fyrirlestur — HTML Element](https://github.com/vefforritun/vef1-2023/blob/main/namsefni/03.html-element/1.html-element.md)
+
+> [töflur, listar og form](https://bok.vefforritun.is/05.toflur-listar-form.html) _ítarefni_
+-->
 
 ---
 
