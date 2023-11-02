@@ -18,22 +18,26 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
    - [HTML cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
    - [Bókin um vefforritun: kafli 3](https://bok.vefforritun.is/03.html)
    - [Bókin um vefforritun: kafli 4](https://bok.vefforritun.is/04.element)
-1. Grafík (ljósmynd, SVG)
+
+**Verkefni**
+[Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
 
 ---
 
 ### Tími 2:
-- [CSS grunnatriði](https://www.w3schools.com/w3css/default.asp)
-- [CSS cheatsheets](https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet)
-- [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
-- [float](https://www.w3schools.com/css/css_float.asp)
-- [HTML div](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- flexbox og skalanleiki
-
-Bjargir
 - [CSS málfræði](https://github.com/vefforritun/book/blob/main/chapters/10.css-malfraedi.md)
-- [css Box Model](https://github.com/vefforritun/book/blob/main/chapters/11.css-box-model.md)
-  
+   - [CSS grunnatriði](https://www.w3schools.com/w3css/default.asp)
+   - [CSS cheatsheets](https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet)
+- [Box Model útskýrt](https://github.com/vefforritun/book/blob/main/chapters/11.css-box-model.md)
+   - [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+- [float](https://www.w3schools.com/css/css_float.asp)
+- [HTML marktæk stök](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- Flexbox og skalanleiki
+
+**Verkefni**
+[Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1)
+
+
 ---
 
 ### Tími 3:
@@ -75,5 +79,6 @@ Vefapp
 - [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
 - [Vefgrunnur](https://vefgrunnur.github.io/)  
 - https://github.com/vefforritun/vef1-2023
+- [freeCodeCamp æfingar/projects](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 -->
 
