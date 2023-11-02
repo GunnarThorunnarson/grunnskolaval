@@ -1,4 +1,4 @@
-# Grunnskólaval (Forritun og vefsmíði)
+## Grunnskólaval (Forritun og vefsmíði)
 
 Inngangur að vefforritun með HTML, CSS og JavaScript.
 
