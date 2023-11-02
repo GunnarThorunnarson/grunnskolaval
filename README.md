@@ -53,7 +53,7 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 ---
 
-### Tími 3:
+### Tími 3: 
 Forritun með JavaScript
 
 <!--
