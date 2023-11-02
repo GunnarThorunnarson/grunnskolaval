@@ -14,17 +14,19 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
    1. [Að hýsa vefsíðu á Github](https://pages.github.com/) 
 1. [VSCode ritill](https://code.visualstudio.com/)
 1. HTML
-   - [HTML](https://www.w3schools.com/html/html_basic.asp) ívafsmálið
-   - [HTML cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
-   - [Bókin um vefforritun: kafli 3](https://bok.vefforritun.is/03.html)
-   - [Bókin um vefforritun: kafli 4](https://bok.vefforritun.is/04.element)
-
+   1. [HTML ívafsmálið](https://bok.vefforritun.is/03.html)
+   1. [HTML stök](https://bok.vefforritun.is/04.element)
+   1. [HTML gagnvirkar æfingar(https://www.w3schools.com/html/html_basic.asp)
+   1. [HTML cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
+   
 **Verkefni**
 [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
 
 ---
 
 ### Tími 2:
+CSS
+<!--
 - [CSS málfræði](https://github.com/vefforritun/book/blob/main/chapters/10.css-malfraedi.md)
    - [CSS grunnatriði](https://www.w3schools.com/w3css/default.asp)
    - [CSS cheatsheets](https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet)
@@ -32,11 +34,14 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
    - [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 - [float](https://www.w3schools.com/css/css_float.asp)
 - [HTML marktæk stök](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- Flexbox og skalanleiki
 
 **Verkefni**
 [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1)
 
+> [Flexbox](https://bok.vefforritun.is/17.css-flexbox.html)  _ítarefni_
+> [Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) _ítarefni_
+
+-->
 
 ---
 
