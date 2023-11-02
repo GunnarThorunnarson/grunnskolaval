@@ -1,25 +1,24 @@
-# Grunnskólaval (For-R-2)
+# Grunnskólaval (Forritun og vefsmíði)
 
-Markmið námskeiðs er að veita inngang að vefforritun með HTML, CSS og JavaScript án nokkurrar reynslu af forritun.
+Inngangur að vefforritun með HTML, CSS og JavaScript.
 
 - 12 klst. (6 x 2 klst)
-- fimmtudaga kl 15:20 - 17:20 
+- fimmtudaga kl 14:35 - 16:35 
 
 ---
 
 ## Tími 1: 
-1. Github (geymsla og hýsing) eða  Netlify
+1. Github (geymsla og vefhýsing) 
    1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
    1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
-   1. Hýsa vefsíðu á Github 
+   1. [Að hýsa vefsíðu á Github](https://pages.github.com/) 
 1. [VSCode ritill](https://code.visualstudio.com/)
-1. [HTML](https://www.w3schools.com/html/html_basic.asp) ívafsmálið
+1. HTML
+   - [HTML](https://www.w3schools.com/html/html_basic.asp) ívafsmálið
+   - [Bókin um vefforritun: kafli 3](https://bok.vefforritun.is/03.html)
+   - [Bókin um vefforritun: kafli 4](https://bok.vefforritun.is/04.element)
 1. Grafík (ljósmynd, SVG)
 
-ítarefni: 
-- [Bókin um vefforritun: kafli 3 (html)](https://github.com/vefforritun/book/blob/main/chapters/03.html.md)
-- [Bókin um vefforritun: kafli 4 (element)](https://github.com/vefforritun/book/blob/main/chapters/04.element.md)
-  
 ---
 
 ### Tími 2:
@@ -36,13 +35,13 @@ Bjargir
 ---
 
 ## Tími 3:
-JavaScript: gildi, týpur, virkjar.
+Forritun með JavaScript: gildi, týpur, virkjar.
 
 
 ---
 
 ## Tími 4:
-JavaScript: föll og fylki.
+Forritun  með JavaScript: föll og fylki.
 
 ---
 
@@ -64,7 +63,8 @@ Vefforritun
 
 ---
 
-> Ítarefni: [Bókin um vefforritun](https://github.com/vefforritun/book/tree/main/chapters)
+Ítarefni: 
+- [Bókin um vefforritun](https://bok.vefforritun.is/)
 
 <!-- 
 - [Vefgrunnur](https://vefgrunnur.github.io/)  
