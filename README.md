@@ -15,7 +15,7 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
    1. [HTML gagnvirkar æfingar(https://www.w3schools.com/html/html_basic.asp)
    1. [HTML cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
    
-**Verkefni**
+#### Verkefni:
 [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
 
 ---
@@ -31,7 +31,7 @@ CSS
 - [float](https://www.w3schools.com/css/css_float.asp)
 - [HTML marktæk stök](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-**Verkefni**
+#### Verkefni:
 [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1)
 
 > [Flexbox](https://bok.vefforritun.is/17.css-flexbox.html)  _ítarefni_ og https://github.com/vefforritun/vef1-2023/tree/main/namsefni/14.css-flexbox
