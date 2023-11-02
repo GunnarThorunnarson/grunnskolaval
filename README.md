@@ -7,7 +7,7 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 
 ---
 
-## Tími 1: 
+### Tími 1: 
 1. Github (geymsla og vefhýsing) 
    1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
    1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
@@ -34,19 +34,19 @@ Bjargir
   
 ---
 
-## Tími 3:
+### Tími 3:
 Forritun með JavaScript: gildi, týpur, virkjar.
 
 
 ---
 
-## Tími 4:
+### Tími 4:
 Forritun  með JavaScript: föll og fylki.
 
 ---
 
-## Tími 5:
-Vefforritun  
+### Tími 5:
+Vefapp 
 
 <!--
 - [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
@@ -55,18 +55,13 @@ Vefforritun
 
 ---
 
-## Tími 6:
-Vefforritun
-<!--
-1. [hýsa vefsíðu á Github](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
--->
+### Tími 6:
+Vefapp
 
 ---
 
-Ítarefni: 
-- [Bókin um vefforritun](https://bok.vefforritun.is/)
-
 <!-- 
+> Ítarefni: [Bókin um vefforritun](https://bok.vefforritun.is/)
 - [Vefgrunnur](https://vefgrunnur.github.io/)  
 - https://github.com/vefforritun/vef1-2023
 -->
