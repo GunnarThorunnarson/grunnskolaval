@@ -51,11 +51,12 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 Forritun með JavaScript
 
 <!--
-- [W3schools](https://www.w3schools.com/js/)
+- [W3schools](https://www.w3schools.com/js/) _gagnvirkt_
    - [æfingar](https://www.w3schools.com/js/exercise_js.asp)
 - [Cheatsheeets / Learn JavaScript Basics (coedcademy)](https://www.codecademy.com/learn/paths/create-video-games-with-phaser/tracks/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-basics/cheatsheet)
-- [The JavaSript Survival Guide](https://www.youtube.com/watch?v=9emXNzqCKyg) myndband
-- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) myndband
+- [The JavaSript Survival Guide](https://www.youtube.com/watch?v=9emXNzqCKyg) _myndband_
+- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) _myndband_
+- https://www.codecademy.com/learn/introduction-to-javascript
 -->
 
 ---
@@ -63,9 +64,6 @@ Forritun með JavaScript
 ### Tími 4:
 Forritun  með JavaScript
 
-<!--
-https://www.codecademy.com/learn/introduction-to-javascript
--->
 
 ---
 
