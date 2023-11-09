@@ -32,7 +32,7 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 
 1. [CSS málfræði](https://github.com/vefforritun/book/blob/main/chapters/10.css-malfraedi.md) _lesefni_
 1. [Box Model útskýrt](https://github.com/vefforritun/book/blob/main/chapters/11.css-box-model.md) _lesefni_
-1. [CSS cheatsheets](https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet) _samantekt_
+1. [CSS cheatsheets](https://www.codecademy.com/learn/learn-css/modules/syntax-and-selectors/cheatsheet) _samantekt_
 1. [CSS sýnidæmi](https://www.w3schools.com/w3css/default.asp) _gagnvirkt_
    - [Box Model](https://www.w3schools.com/css/css_boxmodel.asp) 
    - [float](https://www.w3schools.com/css/css_float.asp)
