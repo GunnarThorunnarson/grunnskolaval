@@ -12,9 +12,8 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 1. HTML
    1. [HTML ívafsmálið](https://bok.vefforritun.is/03.html) _lesefni_
    1. [HTML element](https://bok.vefforritun.is/04.element) _lesefni_
+   1. [HTML cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet) _samantekt_
    1. [HTML sýnidæmi](https://www.w3schools.com/html/html_basic.asp) _gagnvirkt_
-   1. [HTML cheatsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
-   1. [HTML validator](https://validator.w3.org/#validate_by_input) _athugar með villur_
    
 #### Verkefni:
 [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1)
@@ -22,8 +21,8 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 
 
 <!--
+1. [HTML validator](https://validator.w3.org/#validate_by_input) _athugar með villur_
 [Fyrirlestur — HTML Element](https://github.com/vefforritun/vef1-2023/blob/main/namsefni/03.html-element/1.html-element.md)
-
 > [töflur, listar og form](https://bok.vefforritun.is/05.toflur-listar-form.html) _ítarefni_
 -->
 
@@ -32,8 +31,8 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 ### Tími 2: 
 
 1. [CSS málfræði](https://github.com/vefforritun/book/blob/main/chapters/10.css-malfraedi.md) _lesefni_
-1. [CSS cheatsheets](https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet) _samantekt_
 1. [Box Model útskýrt](https://github.com/vefforritun/book/blob/main/chapters/11.css-box-model.md) _lesefni_
+1. [CSS cheatsheets](https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet) _samantekt_
 1. [CSS sýnidæmi](https://www.w3schools.com/w3css/default.asp) _gagnvirkt_
    - [Box Model](https://www.w3schools.com/css/css_boxmodel.asp) 
    - [float](https://www.w3schools.com/css/css_float.asp)
