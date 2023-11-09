@@ -57,6 +57,9 @@ Forritun með JavaScript
 - [The JavaSript Survival Guide](https://www.youtube.com/watch?v=9emXNzqCKyg) _myndband_
 - [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) _myndband_
 - https://www.codecademy.com/learn/introduction-to-javascript
+
+#### Verkefnið
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
 -->
 
 ---
@@ -80,6 +83,9 @@ Vefapp
 1. [CSS: Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) 
 1. [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
    1. [icons](https://fonts.google.com/icons?selected=Material+Icons:assignment) `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
+
+#### Verkefni:
+[Learn CSS Flexbox by building a photo gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1)
 -->
 
 ---
