@@ -29,21 +29,18 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 
 ---
 
-### Tími 2: drög
+### Tími 2: 
 
-- [CSS málfræði](https://github.com/vefforritun/book/blob/main/chapters/10.css-malfraedi.md)
-   - [CSS sýnidæmi](https://www.w3schools.com/w3css/default.asp) _gagnvirkt_
-   - [CSS cheatsheets](https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet)
-- [Box Model útskýrt](https://github.com/vefforritun/book/blob/main/chapters/11.css-box-model.md)
-   - [Box Model](https://www.w3schools.com/css/css_boxmodel.asp) _gagnvirkt_
-- [float](https://www.w3schools.com/css/css_float.asp) _gagnvirkt_
-- [HTML marktæk stök](https://www.w3schools.com/html/html5_semantic_elements.asp) _gagnvirkt_
+1. [CSS málfræði](https://github.com/vefforritun/book/blob/main/chapters/10.css-malfraedi.md) _lesefni_
+1. [CSS cheatsheets](https://www.codecademy.com/learn/learn-css/modules/learn-css-selectors-visual-rules/cheatsheet) _samantekt_
+1. [Box Model útskýrt](https://github.com/vefforritun/book/blob/main/chapters/11.css-box-model.md) _lesefni_
+1. [CSS sýnidæmi](https://www.w3schools.com/w3css/default.asp) _gagnvirkt_
+   - [Box Model](https://www.w3schools.com/css/css_boxmodel.asp) 
+   - [float](https://www.w3schools.com/css/css_float.asp)
 
 #### Verkefni:
 [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1)
 
-> [Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) og [hér](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  _ítarefni_ <br>
-> [Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) _ítarefni_
 
 <!--
 CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
@@ -75,16 +72,17 @@ https://www.codecademy.com/learn/introduction-to-javascript
 
 ### Tími 5:
 Vefapp
+
 <!--
 1. Github (geymsla og vefhýsing) 
    1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
    1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
    1. [Að hýsa vefsíðu á Github](https://pages.github.com/)
--->
-
-<!--
-- [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
-- [icons](https://fonts.google.com/icons?selected=Material+Icons:assignment) `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
+1. [Marktæk html tög](https://www.w3schools.com/html/html5_semantic_elements.asp) 
+1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) og [hér](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
+1. [CSS: Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) 
+1. [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
+   1. [icons](https://fonts.google.com/icons?selected=Material+Icons:assignment) `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
 -->
 
 ---
