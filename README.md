@@ -55,7 +55,7 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 <br>
 
-**Aðrar bjargir:**
+#### Aðrar bjargir:
 - [Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) _youtube_ <br>
 - [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) _skref fyrir skref gagnvirkt með mini projects_
 - [FreeCodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) _gagnvirkar æfingar + myndbönd_
