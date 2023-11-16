@@ -58,7 +58,7 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 - [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) _skref fyrir skref gagnvirkt með mini projects_
 - [FreeCodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) _100 gagnvirkar æfingar + myndbönd_
 - [Learn JavaScript Coding by Playing Games](https://medium.com/geekculture/learn-javascript-coding-by-playing-games-7ff4598e5be9)
-- 
+ 
 <!--
 - [JavaScript Cheatsheeets](https://www.codecademy.com/learn/paths/create-video-games-with-phaser/tracks/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-basics/cheatsheet) <br>
 -->
