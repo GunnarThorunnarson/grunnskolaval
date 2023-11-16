@@ -53,8 +53,6 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 1. [æfingar](https://www.w3schools.com/js/exercise_js.asp) _gerðu æfingar_
 1. [sýnidæmi](https://www.w3schools.com/js/js_examples.asp) _skoðaðu sýnidæmi_
 
-<br>
-
 #### Aðrar bjargir:
 - [Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) _youtube_ <br>
 - [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) _skref fyrir skref gagnvirkt með mini projects_
