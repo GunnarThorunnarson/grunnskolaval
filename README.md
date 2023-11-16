@@ -7,7 +7,7 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 
 ---
 
-### Tími 1: 
+### Tími 1: HTML
 1. [VSCode ritill](https://code.visualstudio.com/)
 1. HTML
    1. [HTML ívafsmálið](https://bok.vefforritun.is/03.html) _lesefni_
@@ -28,7 +28,7 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 
 ---
 
-### Tími 2: 
+### Tími 2: CSS
 
 1. [CSS málfræði](https://github.com/vefforritun/book/blob/main/chapters/10.css-malfraedi.md) _lesefni_
 1. [Box Model útskýrt](https://github.com/vefforritun/book/blob/main/chapters/11.css-box-model.md) _lesefni_
@@ -47,31 +47,24 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 ---
 
-### Tími 3: 
-Forritun með JavaScript
+### Tími 3 og 4: JavaScript
+
+1. [skýringar](https://www.w3schools.com/js/) _fylgdu efnisyfirliti (use the menu)_
+1. [æfingar](https://www.w3schools.com/js/exercise_js.asp) _gerðu æfingar_
+1. [sýnidæmi](https://www.w3schools.com/js/js_examples.asp) _skoðaðu sýnidæmi_
+
+Aðrar bjargir:
+- [Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) _youtube_ <br>
+- [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) _skref fyrir skref gagnvirkt með mini projects_
+- [FreeCodecamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript) _gagnvirkar æfingar + myndbönd_
 
 <!--
-- [W3schools](https://www.w3schools.com/js/) _gagnvirkt_
-   - [æfingar](https://www.w3schools.com/js/exercise_js.asp)
-- [Cheatsheeets / Learn JavaScript Basics (coedcademy)](https://www.codecademy.com/learn/paths/create-video-games-with-phaser/tracks/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-basics/cheatsheet)
-- [The JavaSript Survival Guide](https://www.youtube.com/watch?v=9emXNzqCKyg) _myndband_
-- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk) _myndband_
-- https://www.codecademy.com/learn/introduction-to-javascript
-
-#### Verkefnið
-- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+- [JavaScript Cheatsheeets](https://www.codecademy.com/learn/paths/create-video-games-with-phaser/tracks/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-basics/cheatsheet) <br>
 -->
 
 ---
 
-### Tími 4:
-Forritun  með JavaScript
-
-
----
-
-### Tími 5:
-Vefapp
+### Tími 5: Vefapp
 
 <!--
 1. Github (geymsla og vefhýsing) 
@@ -90,8 +83,8 @@ Vefapp
 
 ---
 
-### Tími 6:
-Vefapp
+### Tími 6: Vefapp
+
 
 ---
 
