@@ -47,7 +47,7 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 ---
 
-### Tími 3 og 4: JavaScript
+### Tími 3: JavaScript
 
 1. [skýringar](https://www.w3schools.com/js/) _fylgdu efnisyfirliti (use the menu)_
 1. [æfingar](https://www.w3schools.com/js/exercise_js.asp) _gerðu æfingar_
@@ -62,6 +62,10 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 <!--
 - [JavaScript Cheatsheeets](https://www.codecademy.com/learn/paths/create-video-games-with-phaser/tracks/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-basics/cheatsheet) <br>
 -->
+
+---
+
+### Tími 4: Vefapp
 
 ---
 
@@ -85,7 +89,6 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 ---
 
 ### Tími 6: Vefapp
-
 
 ---
 
