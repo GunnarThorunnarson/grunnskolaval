@@ -65,7 +65,19 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 ---
 
-### Tími 4: Vefapp
+### Tími 4: Uppsetningu á vefsíðu.
+
+<!--
+1. [Marktæk html tög](https://www.w3schools.com/html/html5_semantic_elements.asp) 
+1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) _lesefni_
+1. [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  _tutorial_
+#### Verkefni:
+[Learn CSS Flexbox by building a photo gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1)
+
+> [CSS Grid Layout](https://www.w3schools.com/css/css_grid.asp) _ítarefni_
+> [Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) _ítarefni_
+
+-->
 
 ---
 
@@ -76,14 +88,8 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
    1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
    1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
    1. [Að hýsa vefsíðu á Github](https://pages.github.com/)
-1. [Marktæk html tög](https://www.w3schools.com/html/html5_semantic_elements.asp) 
-1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) og [hér](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
-1. [CSS: Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) 
 1. [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
    1. [icons](https://fonts.google.com/icons?selected=Material+Icons:assignment) `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
-
-#### Verkefni:
-[Learn CSS Flexbox by building a photo gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1)
 -->
 
 ---
