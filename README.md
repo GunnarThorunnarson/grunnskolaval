@@ -68,20 +68,29 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 ### Tími 4: Uppsetningu á vefsíðu.
 
 <!--
-1. [Marktæk html tög](https://www.w3schools.com/html/html5_semantic_elements.asp) 
 1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) _lesefni_
 1. [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  _tutorial_
+
 #### Verkefni:
 [Learn CSS Flexbox by building a photo gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1)
 
-> [CSS Grid Layout](https://www.w3schools.com/css/css_grid.asp) _ítarefni_
 > [Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) _ítarefni_
+
+-->
+
+<!--
+1. [Marktæk html tög](https://www.w3schools.com/html/html5_semantic_elements.asp) 
+1. [CSS Grid Layout](https://www.w3schools.com/css/css_grid.asp) 
+1. [Learn CSS Grid](https://learncssgrid.com/) og [guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+#### Verkefni:
+[Learn CSS Grids by builidng a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1)
 
 -->
 
 ---
 
-### Tími 5: Vefapp
+### Tími 5: Vefapp I
 
 <!--
 1. Github (geymsla og vefhýsing) 
@@ -94,7 +103,7 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 ---
 
-### Tími 6: Vefapp
+### Tími 6: Vefapp II
 
 ---
 
