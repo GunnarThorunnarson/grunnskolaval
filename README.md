@@ -69,6 +69,23 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 <!-- intro: https://youtu.be/QLPA0vftC60?t=606 -->
 
 <!--
+1. Github (geymsla og vefhýsing) 
+   1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
+   1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
+   1. [Að hýsa vefsíðu á Github](https://pages.github.com/)
+1. [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
+1. [Litir]()
+
+#### Ýmislegt gagnlegt
+   1. [icons](https://fonts.google.com/icons?selected=Material+Icons:assignment) `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
+-->
+
+
+---
+
+### Tími 5: Vefapp 
+
+<!--
 1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) _lesefni_
 1. [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  _tutorial_
 1. Flexbox leikir: [froggy](https://flexboxfroggy.com/) og [defence](http://www.flexboxdefense.com/)
@@ -91,22 +108,6 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 > [Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) 
 > [Sveigjanleg hönnun](https://vefgrunnur.github.io/Verkefni-4/)
 -->
-
----
-
-### Tími 5: Vefapp 
-
-<!--
-1. Github (geymsla og vefhýsing) 
-   1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
-   1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
-   1. [Að hýsa vefsíðu á Github](https://pages.github.com/)
-
-#### Ýmislegt gagnlegt
-1. [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
-   1. [icons](https://fonts.google.com/icons?selected=Material+Icons:assignment) `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
--->
-
 ---
 
 ### Tími 6: Vefapp 
