@@ -114,9 +114,8 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 ---
 
 <!-- 
-Ítarefni: 
 - [Bókin um vefforritun](https://bok.vefforritun.is/) 
-- https://github.com/vefforritun/vef1-2023
+- [vefforritun I HÍ](https://github.com/vefforritun/vef1-2023)
 - [Vefgrunnur](https://vefgrunnur.github.io/)  
 -->
 
