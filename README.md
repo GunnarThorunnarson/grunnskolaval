@@ -65,7 +65,7 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 ---
 
-### Tími 4: Uppsetningu á vefsíðu.
+### Tími 4: Vefuppsetning 
 
 <!--
 1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) _lesefni_
@@ -93,7 +93,7 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 ---
 
-### Tími 5: Vefapp I
+### Tími 5: Vefapp 
 
 <!--
 1. Github (geymsla og vefhýsing) 
@@ -108,7 +108,7 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 ---
 
-### Tími 6: Vefapp II
+### Tími 6: Vefapp 
 
 ---
 
