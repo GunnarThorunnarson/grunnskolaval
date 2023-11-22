@@ -70,22 +70,25 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 <!--
 1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) _lesefni_
 1. [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  _tutorial_
-
-#### Verkefni:
-[Learn CSS Flexbox by building a photo gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1)
-
-> [Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) _ítarefni_
-
+1. Flexbox leikir: [froggy](https://flexboxfroggy.com/) og [defence](http://www.flexboxdefense.com/)
+1. [Learn CSS Flexbox by building a photo gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1)
 -->
 
+
 <!--
+#### CSS Grids
 1. [Marktæk html tög](https://www.w3schools.com/html/html5_semantic_elements.asp) 
 1. [CSS Grid Layout](https://www.w3schools.com/css/css_grid.asp) 
 1. [Learn CSS Grid](https://learncssgrid.com/) og [guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+1. [Grid by example](https://gridbyexample.com/examples/)
 
 #### Verkefni:
-[Learn CSS Grids by builidng a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1)
+- [Learn CSS Grids by builidng a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1)
+-->
 
+<!--
+> [Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) 
+> [Sveigjanleg hönnun](https://vefgrunnur.github.io/Verkefni-4/)
 -->
 
 ---
@@ -97,6 +100,8 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
    1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
    1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
    1. [Að hýsa vefsíðu á Github](https://pages.github.com/)
+
+#### Ýmislegt gagnlegt
 1. [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
    1. [icons](https://fonts.google.com/icons?selected=Material+Icons:assignment) `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
 -->
@@ -109,10 +114,8 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 <!-- 
 Ítarefni: 
-- [Bókin um vefforritun](https://bok.vefforritun.is/)
-- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
-- [Vefgrunnur](https://vefgrunnur.github.io/)  
+- [Bókin um vefforritun](https://bok.vefforritun.is/) 
 - https://github.com/vefforritun/vef1-2023
-- [freeCodeCamp æfingar/projects](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [Vefgrunnur](https://vefgrunnur.github.io/)  
 -->
 
