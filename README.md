@@ -66,6 +66,7 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 ---
 
 ### Tími 4: Vefuppsetning 
+<!-- intro: https://youtu.be/QLPA0vftC60?t=606 -->
 
 <!--
 1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) _lesefni_
