@@ -104,9 +104,14 @@ Flexbox:
 1. [Marktæk html tög](https://www.w3schools.com/html/html5_semantic_elements.asp) 
 1. [CSS Grids](https://bok.vefforritun.is/21.grid.html) _lesefni_
 1. [CSS Grid Layout](https://www.w3schools.com/css/css_grid.asp) 
-1. [Learn CSS Grid](https://learncssgrid.com/) og [guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
-1. [Grid by example](https://gridbyexample.com/examples/)
+1. [Learn CSS Grid](https://learncssgrid.com/) 
+1. [Grid Garden leikur](https://cssgridgarden.com/)
 1. [Learn CSS Grids by builidng a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1)
+-->
+<!--
+ítarefni:
+1. [guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+1. [Grid by example](https://gridbyexample.com/examples/)
 -->
 
 <!--
