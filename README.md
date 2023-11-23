@@ -36,6 +36,7 @@ Inngangur að vefforritun með HTML, CSS og JavaScript.
 1. [CSS sýnidæmi](https://www.w3schools.com/w3css/default.asp) _gagnvirkt_
    - [Box Model](https://www.w3schools.com/css/css_boxmodel.asp) 
    - [float](https://www.w3schools.com/css/css_float.asp)
+1. [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
 
 #### Verkefni:
 [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1)
@@ -74,7 +75,6 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
    1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
    1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
    1. [Að hýsa vefsíðu á Github](https://pages.github.com/) _Veldu `Project site` og svo `start from scratch`_
-1. [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
 1. [Marktæk html tög](https://www.w3schools.com/html/html5_semantic_elements.asp) 
 1. CSS Flexbox
    1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) _lesefni_
