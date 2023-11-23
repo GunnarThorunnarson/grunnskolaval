@@ -75,6 +75,8 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
    1. [Að hýsa vefsíðu á Github](https://pages.github.com/)
 1. [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
 1. Grids.
+
+> [Building an Advent Calendar with JavaScript, HTML & CSS](https://www.youtube.com/watch?v=KXPD11CQLGE) _youtube_
 -->
 
 ---
