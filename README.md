@@ -78,8 +78,8 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 1. CSS Flexbox
    1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) _lesefni_
    1. [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) _gagnvirkt_
-   1. Flexbox leikir: [froggy](https://flexboxfroggy.com/) og [defence](http://www.flexboxdefense.com/)
 
+> Flexbox leikir: [froggy](https://flexboxfroggy.com/) og [defence](http://www.flexboxdefense.com/)
 
 <!-- 
 Flexbox:
