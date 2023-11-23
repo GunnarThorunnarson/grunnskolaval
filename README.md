@@ -70,21 +70,35 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 <!-- Dagatal sýnidæmi frá mér -->
 <!-- Áskorun, að opna bara glugga ef dagur stemmir -->
 
-<!--
 1. Github (geymsla og vefhýsing) 
    1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
    1. [Búa til repository](https://www.youtube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
    1. [Að hýsa vefsíðu á Github](https://pages.github.com/)
 1. [Google fonts](https://fonts.google.com/), [Getting started](https://developers.google.com/fonts/docs/getting_started)
 1. [Marktæk html tög](https://www.w3schools.com/html/html5_semantic_elements.asp) 
+1. CSS Flexbox
+   1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) _lesefni_
+   1. [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) _gagnvirkt_
+   1. Flexbox leikir: [froggy](https://flexboxfroggy.com/) og [defence](http://www.flexboxdefense.com/)
+
+> [Building an Advent Calendar with JavaScript, HTML & CSS](https://www.youtube.com/watch?v=KXPD11CQLGE) _youtube_
+
+<!-- 
+Flexbox:
+- Fyrirlestur: https://github.com/vefforritun/vef1-2023/blob/main/namsefni/14.css-flexbox/1.flexbox.md
+- myndband 1: https://www.youtube.com/watch?v=UwYehYeB-us
+- myndband 2: https://www.youtube.com/watch?v=GyUgx78nvC8 
+- [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  _tutorial_
+- [Learn CSS Flexbox by building a photo gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1)
+-->
+
+<!--
 1. CSS Grids
    1. [CSS Grids](https://bok.vefforritun.is/21.grid.html) _lesefni_
    1. [Learn CSS Grid](https://learncssgrid.com/) _samantekt_
    1. [Grid by example](https://gridbyexample.com/examples/) _sýnidæmi_
    1. [CSS Grid Layout](https://www.w3schools.com/css/css_grid.asp) _gagnvirkt_
    1. [Grid Garden](https://cssgridgarden.com/) _leikur_
-
-> [Building an Advent Calendar with JavaScript, HTML & CSS](https://www.youtube.com/watch?v=KXPD11CQLGE) _youtube_
 -->
 
 <!--
@@ -93,20 +107,6 @@ Meira Grids:
 1. [Learn CSS Grids by building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1)
 -->
 
-<!-- 
-Flexbox:
-- Fyrirlestur: https://github.com/vefforritun/vef1-2023/blob/main/namsefni/14.css-flexbox/1.flexbox.md
-- myndband 1: https://www.youtube.com/watch?v=UwYehYeB-us
-- myndband 2: https://www.youtube.com/watch?v=GyUgx78nvC8 
--->
-
-<!--
-#### CSS Flexbox
-1. [CSS: Flexbox](https://bok.vefforritun.is/17.css-flexbox.html) _lesefni_
-1. [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  _tutorial_
-1. Flexbox leikir: [froggy](https://flexboxfroggy.com/) og [defence](http://www.flexboxdefense.com/)
-1. [Learn CSS Flexbox by building a photo gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1)
--->
 ---
 
 ### Tími 5: Vefapp II
