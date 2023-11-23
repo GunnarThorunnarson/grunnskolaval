@@ -113,12 +113,9 @@ Meira Grids:
 ---
 
 ### Tími 5 og 6: Vefapp 
-Búðu til gagnvirkt jóladagatal. Þegar notandi smellir á dag (gluggareit) þá fær viðkomandi glaðning (frjáls útfærsla). Dæmi um glaðning; linkur á vefsíðu, jólalag, mynd,  myndband, pop-up gluggi með skilaboð. <br>
+Búðu til gagnvirkt jóladagatal. Þegar notandi smellir á dag (gluggareit) þá fær viðkomandi glaðning (frjáls útfærsla). Dæmi um glaðning; linkur á vefsíðu, jólalag, mynd,  myndband, pop-up gluggi með skilaboð, leysa þraut. Getur þú útfært dagatalið þannig að það á ekki að vera hægt að opna rangan dag?
 
-Getur þú útfært dagatalið þannig að það á ekki að vera hægt að opna rangan dag?
-
-Dæmi: 
-- [Building an Advent Calendar with JavaScript, HTML & CSS](https://www.youtube.com/watch?v=KXPD11CQLGE) _youtube_
+> Sýnidæmi: [Building an Advent Calendar with JavaScript, HTML & CSS](https://www.youtube.com/watch?v=KXPD11CQLGE)  _youtube_
 
 ---
 
