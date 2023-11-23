@@ -65,7 +65,7 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 ---
 
-### Tími 4: Vefapp I: Uppsetning
+### Tími 4: Vefsíðuppsetning
 <!-- intro: https://youtu.be/QLPA0vftC60?t=606 -->
 <!-- Dagatal sýnidæmi frá mér -->
 <!-- Áskorun, að opna bara glugga ef dagur stemmir -->
@@ -107,10 +107,6 @@ Meira Grids:
 1. [Learn CSS Grids by building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1)
 -->
 
----
-
-### Tími 5: Vefapp II
-
 <!--
 > [Skalanlegir vefir](https://bok.vefforritun.is/18.skalanlegir) 
 > [Sveigjanleg hönnun](https://vefgrunnur.github.io/Verkefni-4/)
@@ -118,7 +114,12 @@ Meira Grids:
 
 ---
 
-### Tími 6: Vefapp III
+### Tími 5: Vefapp 
+
+
+---
+
+### Tími 6: Vefapp 
 
 ---
 
