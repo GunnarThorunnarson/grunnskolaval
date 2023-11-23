@@ -67,6 +67,8 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 
 ### Tími 4: Vefapp I
 <!-- intro: https://youtu.be/QLPA0vftC60?t=606 -->
+<!-- Dagatal sýnidæmi frá mér -->
+<!-- Áskorun, að opna bara glugga ef dagur stemmir -->
 
 <!--
 1. Github (geymsla og vefhýsing) 
