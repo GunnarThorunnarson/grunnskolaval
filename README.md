@@ -80,7 +80,7 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 1. CSS Grids
    1. [CSS Grids](https://bok.vefforritun.is/21.grid.html) _lesefni_
    1. [Learn CSS Grid](https://learncssgrid.com/) _samantekt_
-   1. [Grid by example](https://gridbyexample.com/examples/)
+   1. [Grid by example](https://gridbyexample.com/examples/) _sýnidæmi_
    1. [CSS Grid Layout](https://www.w3schools.com/css/css_grid.asp) _gagnvirkt_
    1. [Grid Garden](https://cssgridgarden.com/) _leikur_
 
