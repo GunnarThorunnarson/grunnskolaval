@@ -69,7 +69,6 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
 ### Tími 4: Vefsíðuppsetning
 <!-- intro: https://youtu.be/QLPA0vftC60?t=606 -->
 <!-- Dagatal sýnidæmi frá mér -->
-<!-- Áskorun, að opna bara glugga ef dagur stemmir -->
 
 1. Github (geymsla og vefhýsing) 
    1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
@@ -81,7 +80,6 @@ CSS yfirlit: https://github.com/vefforritun/vef1-2023/blob/main/vikur/vika-03.md
    1. [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) _gagnvirkt_
    1. Flexbox leikir: [froggy](https://flexboxfroggy.com/) og [defence](http://www.flexboxdefense.com/)
 
-> [Building an Advent Calendar with JavaScript, HTML & CSS](https://www.youtube.com/watch?v=KXPD11CQLGE) _youtube_
 
 <!-- 
 Flexbox:
@@ -114,14 +112,17 @@ Meira Grids:
 
 ---
 
-### Tími 5: Vefapp 
+### Tími 5 og 6: Vefapp 
+Búðu til vefapp sem er gagnvirkt jóladagatal með html, css og JavaScript. Þegar notandi smellir á dag (gluggareit) þá fær viðkomandi glaðning (frjáls útfærsla). Dæmi um glaðning; linkur á vefsíðu, jólalag, mynd,  myndband, pop-up gluggi með skilaboð. <br>
 
+Getur þú útfært dagatalið þannig að það á ekki að vera hægt að opna rangan dag?
+
+Dæmi: 
+- [Building an Advent Calendar with JavaScript, HTML & CSS](https://www.youtube.com/watch?v=KXPD11CQLGE) _youtube_
 
 ---
 
-### Tími 6: Vefapp 
 
----
 
 <!-- 
 - [Bókin um vefforritun](https://bok.vefforritun.is/) 
