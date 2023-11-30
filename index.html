@@ -1,74 +1,122 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jóladagatal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&family=Redacted+Script&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/magic-snowflakes/dist/snowflakes.min.js"></script>
     <style>
         * {
-            margin: 0;
-            padding: 0;
+            margin:0;
+            padding:0;
         }
-
         /* tekur ekki með padding og border útreikninga */
         html {
             box-sizing: border-box;
             font-size: 16px;  /* 1rem*/
         }
-        
         *, *:before, *:after {
             box-sizing: inherit;
         }
-        body{
-            background-image: url("https://www.icegif.com/wp-content/uploads/2022/12/icegif-8.gif");
+        body {
+            background-image: url("https://content.presentermedia.com/content/animsp/00022000/22208/santa_cheery_dance_300_wht.gif");
+            min-width: 350px;   /* uppsetning fer að brotna ef farið eitthvað neðar */
+        }
+        h1 {
+            font-family: 'Mountains of Christmas', serif;
+            font-size: 6rem;
+            text-shadow: 4px 4px 4px #aaa;
+            color: whitesmoke;
+
         }
         header {
-            background-color: #234e6f;
-
+            display:block;
+            width: 100%;
+            padding:2rem;
+            background-color: #235e6f;
+            text-align: center;     
         }
         nav {
             background-color: #0f8a5f;
+            width: 100%;
+            margin-bottom: 1rem;
+            padding: 0.5rem;
+            text-align: center;
         }
-        main {
-            background-color: red;
+        main { 
+            margin: 0 auto;  /* miðja */
+            width: 100%;
+            max-width: 1600px;  /* svo box flæði ekki í enda */
+        
+            display: flex;     
+            flex-direction: row;      /* raðast lárétt frá vinstri til hægri */
+            justify-content: center;  /* raðar boxum fyrir miðju áss. */
+            align-items: stretch;     /* sjálfgefið, jafnar við stærstu hæð á boxi í línunni */
+            align-content: center;    /* raðar fyrir miðju áss. */
+            flex-wrap:wrap;           /* raða boxum í næstu línu ef vantar pláss */
         }
-
+        main div {
+            min-width: 250px; 
+            min-height: 200px; 
+            margin: 0.5rem;
+            border-radius: 5px;
+            padding: 20px;
+            
+            background-color: rgba(255, 0, 0, 0.9);
+          
+            font-size: 150%;
+            color: #fff;
+            text-align:center;  
+        }
+        a {
+            text-decoration: none; /* taka út undirlínu í link*/
+        }
+       
     </style>
 </head>
 <body>
-    <header>
-        <h1>Jóladagatal</h1>
-    </header>
-    <nav>
-        <a href="https://jolamjolk.is/jolasveinarnir">linkur 1</a>
-        <a href="https://jolamjolk.is/jolasveinarnir">linkur 2</a>
-        <a href="https://jolamjolk.is/jolasveinarnir">linkur 3</a>
-    </nav>
-    <main id="wrapper">
-        <div id="nr1">1</div>
-        <div id="nr2">2</div>
-        <div id="nr3">3</div>
-        <div id="nr4">4</div>
-        <div id="nr5">5</div>
-        <div id="nr6">6</div>
-        <div id="nr7">7</div>
-        <div id="nr8">8</div>
-        <div id="nr9">9</div>
-        <div id="nr10">10</div>
-        <div id="nr11">11</div>
-        <div id="nr12">12</div>
-        <div id="nr13">13</div>
-        <div id="nr14">14</div>
-        <div id="nr15">15</div>
-        <div id="nr16">16</div>
-        <div id="nr17">17</div>
-        <div id="nr18">18</div>
-        <div id="nr19">19</div>
-        <div id="nr20">20</div>
-        <div id="nr21">21</div>
-        <div id="nr22">22</div>
-        <div id="nr23">23</div>
-        <div id="nr24">24</div>
-    </main>
+
+ <header><h1>Jóladagatal</h1></header>
+ <nav>
+     <a href="1">linkur 1</a> - 
+     <a href="2">linkur 2</a> - 
+     <a href="3">linkur 3</a> 
+ </nav>
+ <main>
+    <a href="https://poki.com/en/christmas">
+        <div class="box">Dagur 1</div>
+    </a>
+    <div class="box">2</div>
+    <div class="box">3</div>
+    <div class="box">4</div>
+    <div class="box">5</div>
+    <div class="box">6</div>
+    <div class="box">7</div>
+    <div class="box">8</div>
+    <div class="box">9</div>
+    <div class="box">10</div>
+    <div class="box">11</div>
+    <div class="box">12</div>
+    <div class="box">13</div>
+    <div class="box">14</div>
+    <div class="box">15</div>
+    <div class="box">16</div>
+    <div class="box">17</div>
+    <div class="box">18</div>
+    <div class="box">19</div>
+    <div class="box">20</div>
+    <div class="box">21</div>
+    <div class="box">22</div>
+    <div class="box">23</div>
+    <div class="box">24</div>
+ </main>
+
+<script>
+    let sf = new Snowflakes();
+</script>
+
 </body>
 </html>
