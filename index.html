@@ -74,10 +74,7 @@
         a {
             text-decoration: none; /* taka út undirlínu í link*/
         }
-        #nr2{
-            
-        }
-       
+
     </style>
 </head>
 <body>
@@ -110,21 +107,48 @@
     let dagur2 = document.getElementById("nr2");
     let dagur3 = document.getElementById("nr3");
     let dagur4 = document.getElementById("nr4");
+    let dagur5 = document.getElementById("nr5");
+    let dagur6 = document.getElementById("nr6");
+    let dagur7 = document.getElementById("nr7");
 
     // Köllum á fallið breytaTextaLit þegar smellt er á div.
     dagur2.addEventListener("click", breytaTexta);
     dagur3.addEventListener("click", popup);
     dagur4.addEventListener("click", breytaLit);
+    dagur5.addEventListener("click", breytaInnihald);
+    dagur6.addEventListener("click", skrifaTexta);
+    dagur7.addEventListener("click", dagsetning);
 
-    // Fall (aðgerð) sem skrifar innihald (texti & html) 
+    // Fall (aðgerð) sem skrifar texta
     function breytaTexta(){
-        dagur2.innerHTML = "<strong>Gleðileg Jól!</strong>";
+        dagur2.textContent = "Gleðileg Jól!";
     }
     function popup(){
         window.alert("Gleðileg Jól!"); // opnar glugga í window
     }
     function breytaLit(){
         dagur4.style.color = "green";
+    }
+    // fall sem breytir innihald (texti & html) 
+    function breytaInnihald(){
+        // notum hér einfaldar gæsalappir, útaf tvöföldum gæsalöppum í style og src
+        dagur5.innerHTML = '<img style="max-width: 100%; height: auto;" src="https://hips.hearstapps.com/hmg-prod/images/christmas-jokes-1671219757.jpg">';
+    }
+    function skrifaTexta(){
+        // Skrifar yfir allt html
+        document.write("Gleðileg Jól!")
+    }
+    // ekki hægt að opna nema sé komin rétt dagsetning (7. desember)
+    function dagsetning(){
+        let date = new Date().getDate();       //  núverandi dagsetning (dagurinn í dag)
+        console.log(date);                     //  7
+        if (date == 7){
+            document.write("Gleðileg Jól!")
+        }
+        else{
+            document.write("Ekki 7.desember í dag!")
+        }
+        
     }
 
 </script>
