@@ -74,6 +74,9 @@
         a {
             text-decoration: none; /* taka út undirlínu í link*/
         }
+        #nr2{
+            
+        }
        
     </style>
 </head>
@@ -86,36 +89,44 @@
      <a href="3">linkur 3</a> 
  </nav>
  <main>
-    <a href="https://poki.com/en/christmas">
-        <div class="box">Dagur 1</div>
-    </a>
-    <div class="box">2</div>
-    <div class="box">3</div>
-    <div class="box">4</div>
-    <div class="box">5</div>
-    <div class="box">6</div>
-    <div class="box">7</div>
-    <div class="box">8</div>
-    <div class="box">9</div>
-    <div class="box">10</div>
-    <div class="box">11</div>
-    <div class="box">12</div>
-    <div class="box">13</div>
-    <div class="box">14</div>
-    <div class="box">15</div>
-    <div class="box">16</div>
-    <div class="box">17</div>
-    <div class="box">18</div>
-    <div class="box">19</div>
-    <div class="box">20</div>
-    <div class="box">21</div>
-    <div class="box">22</div>
-    <div class="box">23</div>
-    <div class="box">24</div>
+    <a href="https://poki.com/en/christmas"> <div id="nr1">Dagur 1</div> </a>
+    <div id="nr2">2</div>
+    <div id="nr3">3</div>
+    <div id="nr4">4</div>
+    <div id="nr5">5</div>
+    <div id="nr6">6</div>
+    <div id="nr7">7</div>
+    <div id="nr8">8</div>
+    <div id="nr9">9</div>
+    <div id="nr10">10</div>
+    <div id="nr11">11</div>
+    <div id="nr12">12</div>
  </main>
 
 <script>
     let sf = new Snowflakes();
+
+    // DOM vísun á id nr2
+    let dagur2 = document.getElementById("nr2");
+    let dagur3 = document.getElementById("nr3");
+    let dagur4 = document.getElementById("nr4");
+
+    // Köllum á fallið breytaTextaLit þegar smellt er á div.
+    dagur2.addEventListener("click", breytaTexta);
+    dagur3.addEventListener("click", popup);
+    dagur4.addEventListener("click", breytaLit);
+
+    // Fall (aðgerð) sem skrifar innihald (texti & html) 
+    function breytaTexta(){
+        dagur2.innerHTML = "<strong>Gleðileg Jól!</strong>";
+    }
+    function popup(){
+        window.alert("Gleðileg Jól!"); // opnar glugga í window
+    }
+    function breytaLit(){
+        dagur4.style.color = "green";
+    }
+
 </script>
 
 </body>
